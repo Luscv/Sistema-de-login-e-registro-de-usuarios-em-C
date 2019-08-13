@@ -1,0 +1,3 @@
+C:/Users/lucbp/CLionProjects/uHIsystem/cmake-build-debug/CMakeFiles/uHIsystem.dir
+C:/Users/lucbp/CLionProjects/uHIsystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucbp/CLionProjects/uHIsystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
